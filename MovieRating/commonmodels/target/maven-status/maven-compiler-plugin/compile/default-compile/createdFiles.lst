@@ -1,0 +1,12 @@
+infra\repository\BaseCrudRepository.class
+infra\model\BaseEntity.class
+ir\model\Movie.class
+infra\service\BaseService.class
+infra\dto\ErrorDto.class
+infra\dto\BaseIndependentDto.class
+ir\enums\Genre.class
+ir\model\ActressActors.class
+infra\dto\BaseDto.class
+infra\dto\BaseGrid.class
+ir\dto\ActressActorsDto.class
+ir\dto\MovieDto.class

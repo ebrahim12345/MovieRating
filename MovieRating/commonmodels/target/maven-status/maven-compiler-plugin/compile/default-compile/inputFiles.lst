@@ -1,0 +1,12 @@
+C:\Program Files\MovieRating\commonmodels\src\main\java\ir\dto\MovieDto.java
+C:\Program Files\MovieRating\commonmodels\src\main\java\infra\service\BaseService.java
+C:\Program Files\MovieRating\commonmodels\src\main\java\infra\repository\BaseCrudRepository.java
+C:\Program Files\MovieRating\commonmodels\src\main\java\infra\dto\BaseGrid.java
+C:\Program Files\MovieRating\commonmodels\src\main\java\ir\dto\ActressActorsDto.java
+C:\Program Files\MovieRating\commonmodels\src\main\java\ir\model\ActressActors.java
+C:\Program Files\MovieRating\commonmodels\src\main\java\infra\dto\ErrorDto.java
+C:\Program Files\MovieRating\commonmodels\src\main\java\infra\dto\BaseIndependentDto.java
+C:\Program Files\MovieRating\commonmodels\src\main\java\infra\model\BaseEntity.java
+C:\Program Files\MovieRating\commonmodels\src\main\java\infra\dto\BaseDto.java
+C:\Program Files\MovieRating\commonmodels\src\main\java\ir\model\Movie.java
+C:\Program Files\MovieRating\commonmodels\src\main\java\ir\enums\Genre.java
